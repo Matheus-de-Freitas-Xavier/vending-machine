@@ -23,7 +23,7 @@ You can download the ready-to-use executable in the [Releases](https://github.co
 ### 🐍 Code
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/vending-machine.git
+git clone https://github.com/Matheus-de-Freitas-Xavier/vending-machine
 ```   
 2. Install the required library:
 ```bash
