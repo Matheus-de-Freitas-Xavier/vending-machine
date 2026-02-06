@@ -39,7 +39,7 @@ python3 vending_machine_EN.py
 > But if the error persists replace `python3` to `python`
 
 ## 📸 Preview
-<img width="180" height="400" alt="shot-2026-02-06_17-16-25" src="https://github.com/user-attachments/assets/7912b04f-c5b2-49f2-86be-137174c895cf" /><br>
+<img width="230" height="400" alt="shot-2026-02-06_17-16-25" src="https://github.com/user-attachments/assets/7912b04f-c5b2-49f2-86be-137174c895cf" /><br>
 *Main interface of the vending machine simulator*
 
 ## 💡 How It Works
