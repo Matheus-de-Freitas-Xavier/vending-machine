@@ -48,7 +48,7 @@ python3 vending_machine_EN.py
 - **Manage Cart**: Use the "-1" buttons
  to remove items from your cart.
 - **Enter Payment**: Type the amount of money you're inserting into the machine.
-- **Complete Purchase**: Click "FINALIZE PURCHASE" (Complete Purchase) to finalize your order and receive your change (if applicable).
+- **Complete Purchase**: Click "FINALIZE PURCHASE" to finalize your order and receive your change (if applicable).
 
 ## 📫 Contact
 
