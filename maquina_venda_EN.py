@@ -3,7 +3,7 @@ from tkinter import messagebox as mb
 import random
 
 # List of product names and their prices
-products_name = ['Coca-cola', 'Fanta', 'Sprite', 'Água tônica', 'Itubaina', 'Suco de maracujá']
+products_name = ['Coke', 'Energy drink', 'Soda', 'Water', 'Sparkling water', 'Fruit juice']
 products_price = [14.09, 9.49, 6.87, 7.99, 6.99, 7.79]
 
 # Dictionary to store product information: name, price, quantity in cart, and stock
