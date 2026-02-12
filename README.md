@@ -22,7 +22,7 @@ A simple, modular vending machine application that models *product inventory*, *
 
 ### ⚙️ Application
 
-You can download the ready-to-use executable in the [Releases](https://github.com/Matheus-de-Freitas-Xavier/vending-machine/releases/tag/v.1.1) section. *(Only for linux)*
+You can download the ready-to-use executable in the [Releases](https://github.com/mxavier-dev/vending-machine/releases/tag/v.1.1) section. *(Only for linux)*
 
 ### 🐍 Code
 1. Clone the repository:
