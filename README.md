@@ -14,11 +14,15 @@ A simple, modular vending machine application that models *product inventory*, *
 - **Python 3**
 - **Customtkinter** (Graphical User Interface)
 
+## 📸 Preview
+<img width="230" height="400" alt="shot-2026-02-06_17-16-25" src="https://github.com/user-attachments/assets/7912b04f-c5b2-49f2-86be-137174c895cf" /><br>
+*Main interface of the vending machine simulator*
+
 ## 📥 Installation
 
 ### ⚙️ Application
 
-You can download the ready-to-use executable in the [Releases](https://github.com/Matheus-de-Freitas-Xavier/vending-machine/releases/tag/v.1.1) section.
+You can download the ready-to-use executable in the [Releases](https://github.com/Matheus-de-Freitas-Xavier/vending-machine/releases/tag/v.1.1) section. *(Only for linux)*
 
 ### 🐍 Code
 1. Clone the repository:
@@ -37,10 +41,6 @@ python3 vending_machine_EN.py
 ```
 > If display a error *'python3 not found'* make sure the python is installed.
 > But if the error persists replace `python3` to `python`
-
-## 📸 Preview
-<img width="230" height="400" alt="shot-2026-02-06_17-16-25" src="https://github.com/user-attachments/assets/7912b04f-c5b2-49f2-86be-137174c895cf" /><br>
-*Main interface of the vending machine simulator*
 
 ## 💡 How It Works
 
